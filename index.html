@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Controllo Cartelle</title>
+    <link rel="stylesheet" href="styles.css">
+    <script>
+        function checkInput(folderNumber) {
+            const input = document.getElementById('input' + folderNumber).value;
+            const correctWord = 'parola' + folderNumber; // Cambia 'parola1', 'parola2', ecc. con la parola giusta
+            if (input === correctWord) {
+                window.location.href = 'correct.html'; // Reindirizza alla pagina corretta
+            } else {
+                alert('Parola sbagliata! Riprova.');
+            }
+        }
+    </script>
+</head>
+<body>
+    <div class="folder-container">
+        <!-- Cartella 1 -->
+        <div class="folder-block">
+            <img src="folder1.png" alt="Cartella 1" class="folder-image">
+            <input type="text" id="input1" placeholder="Inserisci la parola giusta">
+            <button onclick="checkInput(1)">Verifica</button>
+        </div>
+
+        <!-- Cartella 2 -->
+        <div class="folder-block">
+            <img src="folder2.png" alt="Cartella 2" class="folder-image">
+            <input type="text" id="input2" placeholder="Inserisci la parola giusta">
+            <button onclick="checkInput(2)">Verifica</button>
+        </div>
+
+        <!-- Aggiungi altre cartelle qui -->
+    </div>
+</body>
+</html>
