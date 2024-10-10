@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cruciverba</title>
+    <link rel="stylesheet" href="../styles.css">
+    <script>
+        function checkSolution() {
+            const input = document.getElementById('solutionInput').value;
+            const correctSolution = 'soluzione'; // Cambia con la soluzione corretta
+            if (input.toLowerCase() === correctSolution.toLowerCase()) {
+                window.location.href = 'documento0.pdf'; // Reindirizza alla pagina corretta
+            } else {
+                alert('La risposta non è questa, riprova!');
+            }
+        }
+    </script>
+</head>
+<body>
+    <div class="folder-container">
+        <img src="cruciverba.png" alt="Cruciverba" class="crossword-image">
+        <input type="text" id="solutionInput" placeholder="Inserisci la soluzione">
+        <button onclick="checkSolution()">Verifica</button>
+    </div>
+</body>
+</html>

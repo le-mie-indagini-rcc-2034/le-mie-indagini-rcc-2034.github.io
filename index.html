@@ -3,34 +3,93 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Controllo Cartelle</title>
+    <title>Documenti Privati</title>
     <link rel="stylesheet" href="styles.css">
     <script>
         function checkInput(folderNumber) {
-            const input = document.getElementById('input' + folderNumber).value;
-            const correctWord = 'parola' + folderNumber; // Cambia 'parola1', 'parola2', ecc. con la parola giusta
-            if (input === correctWord) {
-                window.location.href = 'correct.html'; // Reindirizza alla pagina corretta
+            if (folderNumber === 0) {
+                // Per la cartella 0, nessun input, redirect automatico
+                window.location.href = './doc1'; // Reindirizza alla pagina /doc1
             } else {
-                alert('Parola sbagliata! Riprova.');
+                const input = document.getElementById('input' + folderNumber).value.toLowerCase(); // Converte l'input in minuscolo
+                
+                // Password corrette per ogni cartella e rispettivi redirect
+                const folderData = {
+                    1: { password: '1', redirect: './orto' },
+                    2: { password: '2', redirect: './sguardo/documento2.pdf' },
+                    3: { password: '3', redirect: './genio/documento3.pdf' },
+                    4: { password: '4', redirect: './lastre/documento4.pdf' },
+                    5: { password: '5', redirect: './scrigno/documento5.pdf' },
+                    6: { password: '6', redirect: './bimbo/documento6.pdf' },
+                    7: { password: '7', redirect: './barca/documento7.pdf' }
+                };
+
+                // Controlla se la password è corretta
+                if (input === folderData[folderNumber].password) {
+                    window.location.href = folderData[folderNumber].redirect; // Reindirizza alla pagina corretta
+                } else {
+                    alert('La password non è corretta, riprova!');
+                }
             }
         }
     </script>
 </head>
 <body>
     <div class="folder-container">
+
+        <!-- Cartella 0 -->
+        <div class="folder-block">
+            <img src="images/cartella.png" alt="Cartella 0" class="folder-image">
+            <button onclick="checkInput(0)">Apri</button>
+        </div>
+
         <!-- Cartella 1 -->
         <div class="folder-block">
-            <img src="folder1.png" alt="Cartella 1" class="folder-image">
-            <input type="text" id="input1" placeholder="Inserisci la parola giusta">
+            <img src="images/cartella.png" alt="Cartella 1" class="folder-image">
+            <input type="text" id="input1" placeholder="Inserisci la password">
             <button onclick="checkInput(1)">Verifica</button>
         </div>
 
         <!-- Cartella 2 -->
         <div class="folder-block">
-            <img src="folder2.png" alt="Cartella 2" class="folder-image">
-            <input type="text" id="input2" placeholder="Inserisci la parola giusta">
+            <img src="images/cartella.png" alt="Cartella 2" class="folder-image">
+            <input type="text" id="input2" placeholder="Inserisci la password">
             <button onclick="checkInput(2)">Verifica</button>
+        </div>
+
+        <!-- Cartella 3 -->
+        <div class="folder-block">
+            <img src="images/cartella.png" alt="Cartella 3" class="folder-image">
+            <input type="text" id="input3" placeholder="Inserisci la password">
+            <button onclick="checkInput(3)">Verifica</button>
+        </div>
+
+        <!-- Cartella 4 -->
+        <div class="folder-block">
+            <img src="images/cartella.png" alt="Cartella 4" class="folder-image">
+            <input type="text" id="input4" placeholder="Inserisci la password">
+            <button onclick="checkInput(4)">Verifica</button>
+        </div>
+        
+        <!-- Cartella 5 -->
+        <div class="folder-block">
+            <img src="images/cartella.png" alt="Cartella 5" class="folder-image">
+            <input type="text" id="input5" placeholder="Inserisci la password">
+            <button onclick="checkInput(5)">Verifica</button>
+        </div>
+
+        <!-- Cartella 6 -->
+        <div class="folder-block">
+            <img src="images/cartella.png" alt="Cartella 6" class="folder-image">
+            <input type="text" id="input6" placeholder="Inserisci la password">
+            <button onclick="checkInput(6)">Verifica</button>
+        </div>
+
+        <!-- Cartella 7 -->
+        <div class="folder-block">
+            <img src="images/cartella.png" alt="Cartella 7" class="folder-image">
+            <input type="text" id="input7" placeholder="Inserisci la password">
+            <button onclick="checkInput(7)">Verifica</button>
         </div>
 
         <!-- Aggiungi altre cartelle qui -->

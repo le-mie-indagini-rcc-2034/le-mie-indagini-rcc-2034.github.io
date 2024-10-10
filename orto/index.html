@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Codice Morse</title>
+    <link rel="stylesheet" href="../styles.css">
+    <script>
+        function checkSolution() {
+            const input = document.getElementById('solutionInput').value;
+            const correctSolution = 'malvagi'
+            if (input.toLowerCase() === correctSolution.toLowerCase()) {
+                window.location.href = 'documento1.pdf';
+            } else {
+                alert('La risposta non è questa, riprova!');
+            }
+        }
+    </script>
+</head>
+<body>
+    <div class="folder-container">
+        <audio controls>
+            <source src="codice.wav" type="audio/wav">
+            Il tuo browser non supporta l'elemento audio.
+        </audio>
+        <input type="text" id="solutionInput" placeholder="Inserisci la soluzione">
+        <button onclick="checkSolution()">Verifica</button>
+    </div>
+</body>
+</html>
