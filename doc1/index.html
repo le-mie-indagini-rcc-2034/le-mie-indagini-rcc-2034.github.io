@@ -8,7 +8,7 @@
     <script>
         function checkSolution() {
             const input = document.getElementById('solutionInput').value;
-            const correctSolution = 'soluzione'; // Cambia con la soluzione corretta
+            const correctSolution = 'piantine'; // Cambia con la soluzione corretta
             if (input.toLowerCase() === correctSolution.toLowerCase()) {
                 window.location.href = 'documento0.pdf'; // Reindirizza alla pagina corretta
             } else {
@@ -19,6 +19,7 @@
 </head>
 <body>
     <div class="folder-container">
+        <h2>I miei file sono protetti da un codice...</h2>
         <img src="cruciverba.png" alt="Cruciverba" class="crossword-image">
         <input type="text" id="solutionInput" placeholder="Inserisci la soluzione">
         <button onclick="checkSolution()">Verifica</button>
