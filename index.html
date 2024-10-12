@@ -25,6 +25,8 @@
                     7: { password: 'stella', redirect: './barca/documento7.pdf' }
                 };
 
+                if (folderNumber === 2 || folderNumber === 3 || folderNumber === 4) alert("Il Genio mi ha dato tante cose da fare, vorrei essere in tre posti contemporaneamente.");
+
                 // Controlla se la password è corretta
                 if (input === folderData[folderNumber].password) {
                     window.location.href = folderData[folderNumber].redirect; // Reindirizza alla pagina corretta
