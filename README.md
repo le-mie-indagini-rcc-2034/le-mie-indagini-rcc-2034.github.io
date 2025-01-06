@@ -71,6 +71,15 @@ Gli invitati hanno trovato la [Fontana del Genio di Palermo](https://it.wikipedi
 
 Ogni soluzione sbloccava un documento con una mappa che indicava un punto specifico all’interno della villa.
 
+<details>
+<summary>🖼️ Immagini</summary>
+<div>
+<img src="https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/images/readme/genio_2.jpg" alt="genio_2" style="width: 49%; height: auto;">
+<img src="https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/images/readme/genio_3.jpg" alt="genio_3" style="width: 49%; height: auto;">
+<img src="https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/images/readme/genio_1.jpg" alt="genio_1" style="width: auto; height: auto;">
+</div>
+</details>
+
 #### **Tesoro di Bohr 🔬**
 Nel punto più alto della villa, vicino ai resti di una torre, gli invitati hanno trovato uno scrigno decorato con simboli matematici. Risolvendo una complessa equazione al suo interno (che si semplificava fino a dare 1 come risultato), hanno sbloccato un documento aggiuntivo.
 
@@ -88,20 +97,38 @@ Questa storia commovente ha condotto gli invitati a una fontana con due statue: 
 <details>
 <summary>🖼️ Immagini</summary>
 <div>
-<img src="https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/images/readme/bimbo_1.jpg" alt="bimbo_1" style="width: 40%; height: auto;">
-<img src="https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/images/readme/bimbo_2.jpg" alt="bimbo_2" style="width: 40%; height: auto;">
-<img src="https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/images/readme/bimbo_3.jpg" alt="bimbo_3" style="width: 40%; height: auto;">
-<img src="https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/images/readme/bimbo_4.jpg" alt="bimbo_4" style="width: 40%; height: auto;">
-<img src="https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/images/readme/mappa_1.jpg" alt="mappa_1" style="width: 40%; height: auto;">
-<img src="https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/images/readme/mappa_2.jpg" alt="mappa_2" style="width: 40%; height: auto;">
+<img src="https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/images/readme/bimbo_1.jpg" alt="bimbo_1" style="width: 49%; height: auto;">
+<img src="https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/images/readme/bimbo_2.jpg" alt="bimbo_2" style="width: 49%; height: auto;">
+<img src="https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/images/readme/bimbo_3.jpg" alt="bimbo_3" style="width: 49%; height: auto;">
+<img src="https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/images/readme/bimbo_4.jpg" alt="bimbo_4" style="width: 49%; height: auto;">
+<img src="https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/images/readme/mappa_1.jpg" alt="mappa_1" style="width: 49%; height: auto;">
+<img src="https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/images/readme/mappa_2.jpg" alt="mappa_2" style="width: 49%; height: auto;">
 </div>
 </details>
 
 #### **Viaggi di Archimede ⛵**
 Gli invitati hanno ricostruito un percorso tra le tombe di Villa Giulia, formando una stella. Questa figura era la password per accedere a una cartella contenente un ultimo indizio.
 
+<details>
+<summary>🖼️ Immagini</summary>
+<div>
+<img src="https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/images/readme/cimitero_Archimede.jpg" alt="cimitero_Archimede" style="width: 49%; height: auto;">
+<img src="https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/images/readme/cimitero_Empedocle.jpg" alt="cimitero_Empedocle" style="width: 49%; height: auto;">
+<img src="https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/images/readme/cimitero_TIunioCalpurnio.jpg" alt="cimitero_TIunioCalpurnio" style="width: 49%; height: auto;">
+<img src="https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/images/readme/cimitero_Teocrito.jpg" alt="cimitero_Teocrito" style="width: 49%; height: auto;">
+<img src="https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/images/readme/cimitero_DiodoroSiculo.jpg" alt="cimitero_DiodoroSiculo" style="width: 49%; height: auto;">
+</div>
+</details>
+
 ### **Tappa 4: Piazza Magione 🎁**
 Combinando tutti i documenti raccolti, gli invitati hanno capito di dover tornare a Piazza Magione. Qui, un video finale del Francesco del Futuro si è congratulato per il successo della missione e ha rivelato che tutti gli oggetti rubati erano stati restituiti. Grazie alla collaborazione di tutti, la festa ha potuto finalmente iniziare! 🎊
+
+<details>
+<summary>🖼️ Immagini</summary>
+<div>
+<img src="https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/images/readme/video_2.jpg" alt="video_2" style="width: auto; height: auto;">
+</div>
+</details>
 
 ## Crediti 📝
 - **Ideazione, narrazione e creazione degli enigmi**: Francesco e Federico ([FedeDC512](https://github.com/FedeDC512))
