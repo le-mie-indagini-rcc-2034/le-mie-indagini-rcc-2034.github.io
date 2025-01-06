@@ -30,10 +30,10 @@ Repository del sito creato per una caccia al tesoro unica, organizzata in occasi
 La caccia al tesoro ha avuto inizio a [Piazza Magione](https://it.wikipedia.org/wiki/Piazza_Magione), dove Francesco ha riunito i suoi invitati nel pomeriggio. Dopo aver comunicato che tutte le provviste per la festa erano scomparse, Francesco ha attirato l’attenzione degli invitati su un video del Francesco del Futuro. Nel video, Francesco del 2034 spiegava che l’associazione RCC stava rubando gli oggetti delle sue feste per finanziare operazioni oscure che rischiavano di scatenare una terza guerra mondiale. Il video, girato sopra lo scivolo di Piazza Magione, conteneva anche un riferimento a una carta con un simbolo e una chiave NFC. Gli invitati, trovata la carta nel luogo indicato, hanno scansionato la chiave NFC, accedendo al sito "Documenti Privati".
 
 <details>
-<summary>Immagini</summary>
+<summary>🖼️ Immagini</summary>
 <div>
-<img src="https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/images/readme/video_1.jpg" alt="video_1" style="width: 50%; height: auto;">
-<img src="https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/images/readme/carta.jpg" alt="carta" style="width: 50%; height: auto;">
+<img src="https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/images/readme/video_1.jpg" alt="video_1" style="width: 40%; height: auto;">
+<img src="https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/images/readme/carta.jpg" alt="carta" style="width: 40%; height: auto;">
 </div>
 </details>
 
