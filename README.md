@@ -6,15 +6,15 @@ Repository del sito creato per una caccia al tesoro unica, organizzata in occasi
 - [La Trama](#la-trama)
 - [Il Sito Web](#il-sito-web)
 - [Le Tappe della Caccia](#le-tappe-della-caccia)
-    - [Tappa 0: Ritrovo Piazza Magione 📍](#)
-    - [Tappa 1: Parco Giochi a Piazza Magione 🧩](#)
-    - [Tappa 2: Orto Botanico 🌱](#)
-    - [Tappa 3: Villa Giulia 🏛️](#)
-        - [Il Genio di Palermo 🧞](#)
-        - [Tesoro di Bohr 🔬](#)
-        - [Luca e Kofi 🫱🏼‍🫲🏿](#)
-        - [Viaggi di Archimede ⛵](#)
-    - [Tappa 4: Piazza Magione 🎁](#)
+    - [Tappa 0: Ritrovo Piazza Magione 📍](#tappa-0-ritrovo-piazza-magione-)
+    - [Tappa 1: Parco Giochi a Piazza Magione 🧩](#tappa-1-parco-giochi-a-piazza-magione-)
+    - [Tappa 2: Orto Botanico 🌱](#tappa-2-orto-botanico-)
+    - [Tappa 3: Villa Giulia 🏛️](#tappa-3-villa-giulia-️)
+        - [Il Genio di Palermo 🧞](#il-genio-di-palermo-)
+        - [Tesoro di Bohr 🔬](#tesoro-di-bohr-)
+        - [Luca e Kofi 🫱🏼‍🫲🏿](#luca-e-kofi-)
+        - [Viaggi di Archimede ⛵](#viaggi-di-archimede-)
+    - [Tappa 4: Piazza Magione 🎁](#tappa-4-piazza-magione-)
 
 ## La Trama
 ⌚ Nel 2034, il Francesco del futuro affronta un problema inaspettato: l’associazione "Rubiamo ai Compleanni di Ciccio" (RCC) ha sabotato ogni suo compleanno negli ultimi dieci anni, rubando cibo, decorazioni e regali. Per porre fine a questa situazione, Francesco decide di tornare indietro nel tempo e chiedere aiuto ai suoi amici del passato, coinvolgendoli in una missione per fermare l’organizzazione RCC e salvare il futuro delle sue feste.
@@ -27,7 +27,12 @@ Repository del sito creato per una caccia al tesoro unica, organizzata in occasi
 ## Le Tappe della Caccia
 
 ### **Tappa 0: Ritrovo Piazza Magione 📍**
-La caccia al tesoro ha avuto inizio a Piazza Magione, dove Francesco ha riunito i suoi invitati nel pomeriggio. Dopo aver comunicato che tutte le provviste per la festa erano scomparse, Francesco ha attirato l’attenzione degli invitati su un video del Francesco del Futuro. Nel video, Francesco del 2034 spiegava che l’associazione RCC stava rubando gli oggetti delle sue feste per finanziare operazioni oscure che rischiavano di scatenare una terza guerra mondiale. Il video, girato sopra lo scivolo di Piazza Magione, conteneva anche un riferimento a una carta con un simbolo e una chiave NFC. Gli invitati, trovata la carta nel luogo indicato, hanno scansionato la chiave NFC, accedendo al sito "Documenti Privati".
+La caccia al tesoro ha avuto inizio a [Piazza Magione](https://it.wikipedia.org/wiki/Piazza_Magione), dove Francesco ha riunito i suoi invitati nel pomeriggio. Dopo aver comunicato che tutte le provviste per la festa erano scomparse, Francesco ha attirato l’attenzione degli invitati su un video del Francesco del Futuro. Nel video, Francesco del 2034 spiegava che l’associazione RCC stava rubando gli oggetti delle sue feste per finanziare operazioni oscure che rischiavano di scatenare una terza guerra mondiale. Il video, girato sopra lo scivolo di Piazza Magione, conteneva anche un riferimento a una carta con un simbolo e una chiave NFC. Gli invitati, trovata la carta nel luogo indicato, hanno scansionato la chiave NFC, accedendo al sito "Documenti Privati".
+
+<details>
+    <summary>Immagini</summary>
+    ![video_1](https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/images/readme/video_1.jpg)
+</details>
 
 ### **Tappa 1: Parco Giochi a Piazza Magione 🧩**
 Sul sito, la prima cartella non era protetta da password e conteneva un cruciverba. Le domande del cruciverba erano state create per coinvolgere tutti i partecipanti, sfruttando le loro competenze specifiche:
@@ -36,19 +41,20 @@ Sul sito, la prima cartella non era protetta da password e conteneva un cruciver
 - **Amici**: Domande su meme e cultura pop.
 
 Una volta completato il cruciverba, si è sbloccato il primo documento, che rivelava l’ubicazione della prossima tappa: l’Orto Botanico.
+> [Documento 1](https://github.com/FedeDC512/SmallAnimalsWorth).
 
 ### **Tappa 2: Orto Botanico 🌴**
-All’Orto Botanico, gli invitati hanno affrontato due enigmi:
+All’[Orto Botanico](https://it.wikipedia.org/wiki/Orto_botanico_di_Palermo), gli invitati hanno affrontato due enigmi:
 1. **Identificazione della pianta**: Grazie alle conoscenze dei colleghi biologi, è stato individuato il genere scientifico di una pianta, "Dracaena".
 2. **Codice Morse**: Un file audio conteneva un messaggio in codice Morse che gli scout hanno prontamente decifrato.
 
 La soluzione di questi enigmi ha sbloccato un secondo documento, che forniva ulteriori dettagli sull’organizzazione RCC e indirizzava gli invitati verso Villa Giulia.
 
 ### **Tappa 3: Villa Giulia 🏛️**
-Villa Giulia è stata il teatro della parte più complessa della caccia, con tre percorsi paralleli e una serie di enigmi:
+[Villa Giulia](https://it.wikipedia.org/wiki/Villa_Giulia_(Palermo)) è stata il teatro della parte più complessa della caccia, con tre percorsi paralleli e una serie di enigmi:
 
 #### **Il Genio di Palermo 🧞**
-Gli invitati hanno trovato la statua del Genio di Palermo e risolto tre enigmi:
+Gli invitati hanno trovato la [Fontana del Genio di Palermo](https://it.wikipedia.org/wiki/Fontana_del_Genio_a_villa_Giulia) e risolto tre enigmi:
 - **Direzione dello sguardo**: Identificare la direzione in cui il Genio era rivolto, utilizzando un’immagine di un occhio e una rosa dei venti.
 - **Frase latina**: Completare la frase "Prima Sedes, Corona Regis et Regni Caput".
 - **Seconda frase latina**: Completare "Anguem, aquilam atque canem prudens, augusta fidelis Palladis et Cereris dona Panormus Habet".
