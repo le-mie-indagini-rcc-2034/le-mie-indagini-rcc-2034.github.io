@@ -136,9 +136,7 @@ Gli invitati hanno ricostruito un percorso tra le tombe di Villa Giulia, formand
 
 ### **Tappa 4: Piazza Magione 🎁**
 
-> [Documento 5](https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/scrigno/documento5.pdf)
-> [Documento 6](https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/bimbo/documento6.pdf)
-> [Documento 7](https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/barca/documento7.pdf)
+> [Documento 5](https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/scrigno/documento5.pdf), [Documento 6](https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/bimbo/documento6.pdf), [Documento 7](https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/barca/documento7.pdf)
 
 Combinando tutti i documenti raccolti, gli invitati hanno capito di dover tornare a Piazza Magione. Qui, un video finale del Francesco del Futuro si è congratulato per il successo della missione e ha rivelato che tutti gli oggetti rubati erano stati restituiti. Grazie alla collaborazione di tutti, la festa ha potuto finalmente iniziare! 🎊
 
@@ -150,7 +148,7 @@ Combinando tutti i documenti raccolti, gli invitati hanno capito di dover tornar
 </details>
 
 ## Crediti 📝
-- **Ideazione, narrazione e creazione degli enigmi**: Francesco e Federico ([FedeDC512](https://github.com/FedeDC512))
+- **Ideazione, narrazione e creazione degli enigmi**: Francesco ([francesco_scarpaci7](https://www.instagram.com/francesco_scarpaci7/)) e Federico ([FedeDC512](https://github.com/FedeDC512))
 - **Realizzazione del sito**: Federico ([FedeDC512](https://github.com/FedeDC512))
 - **Partecipazione**: Tutti gli invitati, che con spirito di squadra hanno reso questa avventura un successo.
 
