@@ -24,6 +24,8 @@ Repository del sito creato per una caccia al tesoro unica, organizzata in occasi
 ## Il Sito Web
 📂 Il sito, concepito come un archivio segreto, rappresenta un database di documenti sensibili appartenenti al Francesco del futuro. Ogni "cartella" contiene un documento protetto da password o da codici speciali, come cruciverba o messaggi in codice Morse. Questo design minimalista è stato scelto per mantenere l’atmosfera di mistero e permettere agli invitati di accedere progressivamente alle informazioni necessarie per proseguire nell’avventura.
 
+> [le-mie-indagini-rcc-2034.github.io](https://le-mie-indagini-rcc-2034.github.io/)
+
 ## Le Tappe della Caccia
 
 ### **Tappa 0: Ritrovo Piazza Magione 📍**
@@ -43,6 +45,7 @@ Sul sito, la prima cartella non era protetta da password e conteneva un cruciver
 - **Amici**: Domande su meme e cultura pop.
 
 Una volta completato il cruciverba, si è sbloccato il primo documento, che rivelava l’ubicazione della prossima tappa: l’Orto Botanico.
+
 > [Documento 0](https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/doc1/documento0.pdf)
 
 ### **Tappa 2: Orto Botanico 🌴**
@@ -60,6 +63,8 @@ All’[Orto Botanico](https://it.wikipedia.org/wiki/Orto_botanico_di_Palermo), g
 
 La soluzione di questi enigmi ha sbloccato un secondo documento, che forniva ulteriori dettagli sull’organizzazione RCC e indirizzava gli invitati verso Villa Giulia.
 
+> [Documento 1](https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/orto/documento1.pdf)
+
 ### **Tappa 3: Villa Giulia 🏛️**
 [Villa Giulia](https://it.wikipedia.org/wiki/Villa_Giulia_(Palermo)) è stata il teatro della parte più complessa della caccia, con tre percorsi paralleli e una serie di enigmi:
 
@@ -74,13 +79,16 @@ Ogni soluzione sbloccava un documento con una mappa che indicava un punto specif
 <details>
 <summary>🖼️ Immagini</summary>
 <div>
-<img src="https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/images/readme/genio_2.jpg" alt="genio_2" style="width: 49%; height: auto;">
 <img src="https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/images/readme/genio_3.jpg" alt="genio_3" style="width: 49%; height: auto;">
+<img src="https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/images/readme/genio_2.jpg" alt="genio_2" style="width: 49%; height: auto;">
 <img src="https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/images/readme/genio_1.jpg" alt="genio_1" style="width: auto; height: auto;">
 </div>
 </details>
 
 #### **Tesoro di Bohr 🔬**
+
+> [Documento 2](https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/sguardo/documento2.pdf)
+
 Nel punto più alto della villa, vicino ai resti di una torre, gli invitati hanno trovato uno scrigno decorato con simboli matematici. Risolvendo una complessa equazione al suo interno (che si semplificava fino a dare 1 come risultato), hanno sbloccato un documento aggiuntivo.
 
 <details>
@@ -92,6 +100,9 @@ Nel punto più alto della villa, vicino ai resti di una torre, gli invitati hann
 </details>
 
 #### **Luca e Kofi 🫱🏼‍🫲🏿**
+
+> [Documento 3](https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/genio/documento3.pdf)
+
 Questa storia commovente ha condotto gli invitati a una fontana con due statue: un bimbo bianco e un bimbo nero. Nel cuscino della statua del bimbo nero era nascosta una mappa, con la frase "L’amicizia è il potere che libera ogni vincolo". La parola chiave, "POLIBIO", era evidenziata e ha permesso di sbloccare un altro documento.
 
 <details>
@@ -107,6 +118,9 @@ Questa storia commovente ha condotto gli invitati a una fontana con due statue: 
 </details>
 
 #### **Viaggi di Archimede ⛵**
+
+> [Documento 4](https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/lastre/documento4.pdf)
+
 Gli invitati hanno ricostruito un percorso tra le tombe di Villa Giulia, formando una stella. Questa figura era la password per accedere a una cartella contenente un ultimo indizio.
 
 <details>
@@ -121,6 +135,11 @@ Gli invitati hanno ricostruito un percorso tra le tombe di Villa Giulia, formand
 </details>
 
 ### **Tappa 4: Piazza Magione 🎁**
+
+> [Documento 5](https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/scrigno/documento5.pdf)
+> [Documento 6](https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/bimbo/documento6.pdf)
+> [Documento 7](https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/barca/documento7.pdf)
+
 Combinando tutti i documenti raccolti, gli invitati hanno capito di dover tornare a Piazza Magione. Qui, un video finale del Francesco del Futuro si è congratulato per il successo della missione e ha rivelato che tutti gli oggetti rubati erano stati restituiti. Grazie alla collaborazione di tutti, la festa ha potuto finalmente iniziare! 🎊
 
 <details>
