@@ -32,8 +32,7 @@ La caccia al tesoro ha avuto inizio a [Piazza Magione](https://it.wikipedia.org/
 <details>
 <summary>🖼️ Immagini</summary>
 <div>
-<img src="https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/images/readme/video_1.jpg" alt="video_1" style="width: 40%; height: auto;">
-<img src="https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/images/readme/carta.jpg" alt="carta" style="width: 40%; height: auto;">
+<img src="https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/images/readme/video_1.jpg" alt="video_1" style="width: auto; height: auto;">
 </div>
 </details>
 
@@ -44,12 +43,20 @@ Sul sito, la prima cartella non era protetta da password e conteneva un cruciver
 - **Amici**: Domande su meme e cultura pop.
 
 Una volta completato il cruciverba, si è sbloccato il primo documento, che rivelava l’ubicazione della prossima tappa: l’Orto Botanico.
-> [Documento 1](https://github.com/FedeDC512/SmallAnimalsWorth).
+> [Documento 0](https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/doc1/documento0.pdf)
 
 ### **Tappa 2: Orto Botanico 🌴**
 All’[Orto Botanico](https://it.wikipedia.org/wiki/Orto_botanico_di_Palermo), gli invitati hanno affrontato due enigmi:
 1. **Identificazione della pianta**: Grazie alle conoscenze dei colleghi biologi, è stato individuato il genere scientifico di una pianta, "Dracaena".
 2. **Codice Morse**: Un file audio conteneva un messaggio in codice Morse che gli scout hanno prontamente decifrato.
+
+<details>
+<summary>🖼️ Immagini</summary>
+<div>
+<img src="https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/images/readme/orto_botanico.jpg" alt="orto_botanico" style="width: auto; height: auto;">
+<img src="https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/images/readme/orto_botanico_info.jpg" alt="orto_botanico_info" style="width: auto; height: auto;">
+</div>
+</details>
 
 La soluzione di questi enigmi ha sbloccato un secondo documento, che forniva ulteriori dettagli sull’organizzazione RCC e indirizzava gli invitati verso Villa Giulia.
 
@@ -67,8 +74,28 @@ Ogni soluzione sbloccava un documento con una mappa che indicava un punto specif
 #### **Tesoro di Bohr 🔬**
 Nel punto più alto della villa, vicino ai resti di una torre, gli invitati hanno trovato uno scrigno decorato con simboli matematici. Risolvendo una complessa equazione al suo interno (che si semplificava fino a dare 1 come risultato), hanno sbloccato un documento aggiuntivo.
 
+<details>
+<summary>🖼️ Immagini</summary>
+<div>
+<img src="https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/images/readme/equazione.jpg" alt="equazione" style="width: auto; height: auto;">
+<img src="https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/images/readme/scrigno.jpg" alt="scrigno" style="width: auto; height: auto;">
+</div>
+</details>
+
 #### **Luca e Kofi 🫱🏼‍🫲🏿**
 Questa storia commovente ha condotto gli invitati a una fontana con due statue: un bimbo bianco e un bimbo nero. Nel cuscino della statua del bimbo nero era nascosta una mappa, con la frase "L’amicizia è il potere che libera ogni vincolo". La parola chiave, "POLIBIO", era evidenziata e ha permesso di sbloccare un altro documento.
+
+<details>
+<summary>🖼️ Immagini</summary>
+<div>
+<img src="https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/images/readme/bimbo_1.jpg" alt="bimbo_1" style="width: 40%; height: auto;">
+<img src="https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/images/readme/bimbo_2.jpg" alt="bimbo_2" style="width: 40%; height: auto;">
+<img src="https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/images/readme/bimbo_3.jpg" alt="bimbo_3" style="width: 40%; height: auto;">
+<img src="https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/images/readme/bimbo_4.jpg" alt="bimbo_4" style="width: 40%; height: auto;">
+<img src="https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/images/readme/mappa_1.jpg" alt="mappa_1" style="width: 40%; height: auto;">
+<img src="https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/images/readme/mappa_2.jpg" alt="mappa_2" style="width: 40%; height: auto;">
+</div>
+</details>
 
 #### **Viaggi di Archimede ⛵**
 Gli invitati hanno ricostruito un percorso tra le tombe di Villa Giulia, formando una stella. Questa figura era la password per accedere a una cartella contenente un ultimo indizio.
