@@ -149,7 +149,7 @@ Combinando tutti i documenti raccolti, gli invitati hanno capito di dover tornar
 </details>
 
 ## Crediti 📝
-- **Ideazione, narrazione e creazione degli enigmi**: Francesco ([francesco_scarpaci7](https://www.instagram.com/francesco_scarpaci7/)) e Federico ([FedeDC512](https://github.com/FedeDC512))
+- **Ideazione, narrazione e creazione degli enigmi**: Federico ([FedeDC512](https://github.com/FedeDC512)) e Francesco ([francesco_scarpaci7](https://www.instagram.com/francesco_scarpaci7/))
 - **Realizzazione del sito**: Federico ([FedeDC512](https://github.com/FedeDC512))
 - **Partecipazione**: Tutti gli invitati, che con spirito di squadra hanno reso questa avventura un successo.
 
