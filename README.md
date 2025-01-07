@@ -126,6 +126,7 @@ Gli invitati hanno ricostruito un percorso tra le tombe di Villa Giulia, formand
 <details>
 <summary>🖼️ Immagini</summary>
 <div>
+<img src="https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/images/readme/cimitero_mappa.jpg" alt="cimitero_mappa" style="width: 49%; height: auto;">
 <img src="https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/images/readme/cimitero_Archimede.jpg" alt="cimitero_Archimede" style="width: 49%; height: auto;">
 <img src="https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/images/readme/cimitero_Empedocle.jpg" alt="cimitero_Empedocle" style="width: 49%; height: auto;">
 <img src="https://github.com/le-mie-indagini-rcc-2034/le-mie-indagini-rcc-2034.github.io/blob/main/images/readme/cimitero_TIunioCalpurnio.jpg" alt="cimitero_TIunioCalpurnio" style="width: 49%; height: auto;">
